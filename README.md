@@ -1,5 +1,4 @@
-# SysV IPC Dialogue System
-# Operating Systems-HW1
+# SysV IPC Dialogue System (Operating Systems-HW1)
 
 ---
 
